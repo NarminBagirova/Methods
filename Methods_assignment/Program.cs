@@ -32,7 +32,7 @@
         {
             int sum = 0;
             int i = 0;
-            while (i <= 10)
+            while (i <= number1)
             {
                 sum += i;
                 i += 2;
