@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\bin\Debug\net6.0\Methods_assignment.exe
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\bin\Debug\net6.0\Methods_assignment.deps.json
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\bin\Debug\net6.0\Methods_assignment.runtimeconfig.json
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\bin\Debug\net6.0\Methods_assignment.dll
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\bin\Debug\net6.0\Methods_assignment.pdb
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.dll
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\refint\Methods_assignment.dll
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.pdb
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\Methods_assignment.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Methods_assignment\Methods_assignment\obj\Debug\net6.0\ref\Methods_assignment.dll
